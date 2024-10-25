@@ -71,25 +71,18 @@
 
 <br><br>
 <hr>
-<p>
+
+<table border="0" align="center">
+ <tr border="0">
+  <td width="50%" align="center">  
+     <img align="right" src="https://github-readme-stats.vercel.app/api?username=guriasudipa2002&show_icons=true&locale=en" alt="guriasudipa2002" />
+     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guriasudipa2002&" alt="guriasudipa2002" />
+</td>
+  <td width="50%" height="100%"align="center">
     <img align="center" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=guriasudipa2002&show_icons=true&locale=en&layout=compact" alt="guriasudipa2002" />
-</p>
-<table>
- <tr>
-  <td>
-   <p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=guriasudipa2002&show_icons=true&locale=en" alt="guriasudipa2002" />
-</p>
-  </td>
- </tr>
-  <tr>
-  <td>
-   
-<p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guriasudipa2002&" alt="guriasudipa2002" />
-</p>
-  </td>
- </tr>
+  </td>   
+  </tr>
+
 </table>
 
 
