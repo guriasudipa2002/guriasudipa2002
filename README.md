@@ -74,12 +74,24 @@
 <p>
     <img align="center" width="" src="https://github-readme-stats.vercel.app/api/top-langs?username=guriasudipa2002&show_icons=true&locale=en&layout=compact" alt="guriasudipa2002" />
 </p>
-<p>
+<table>
+ <tr>
+  <td>
+   <p>
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=guriasudipa2002&show_icons=true&locale=en" alt="guriasudipa2002" />
 </p>
-
+  </td>
+ </tr>
+  <tr>
+  <td>
+   
 <p>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=guriasudipa2002&" alt="guriasudipa2002" />
 </p>
+  </td>
+ </tr>
+</table>
+
+
 
 
